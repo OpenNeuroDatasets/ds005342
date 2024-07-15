@@ -14,7 +14,7 @@
         "Javier M Antelis"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds005342.v1.0.1",
-    "HowToAcknowledge": "Triana-Guzman N, Orjuela-Cañon AD, Jutinico AL, Mendoza-Montoya O and Antelis JM (2024). EEG data offline and online during motor imagery for standing and sitting. OpenNeuro Dataset ds005342. doi: doi:10.18112/openneuro.ds005342.v1.0.1",
+    "HowToAcknowledge": "Triana-Guzman N, Orjuela-Cañon AD, Jutinico AL, Mendoza-Montoya O and Antelis JM (2024). EEG data offline and online during motor imagery for standing and sitting. OpenNeuro Dataset ds005342. doi: doi:10.18112/openneuro.ds005342.v1.0.2",
     "GeneratedBy": [
         {
             "Name": "bids-matlab-tools",
